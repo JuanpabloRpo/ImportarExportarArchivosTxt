@@ -1,0 +1,50 @@
+Nombre: Celia Mendoza
+edad: 42
+sexo: M
+cedula: 90628
+-----------------------------
+Nombre: Francisco Javier Ruiz
+edad: 22
+sexo: H
+cedula: 72100
+-----------------------------
+Nombre: Ana Martínez
+edad: 18
+sexo: M
+cedula: 83538
+-----------------------------
+Nombre: Víctor Romero
+edad: 28
+sexo: H
+cedula: 84606
+-----------------------------
+Nombre: Sara Torres
+edad: 78
+sexo: M
+cedula: 79945
+-----------------------------
+Nombre: Mercedes Morales
+edad: 57
+sexo: M
+cedula: 19798
+-----------------------------
+Nombre: Sergio Gómez
+edad: 75
+sexo: H
+cedula: 91543
+-----------------------------
+Nombre: Laura Pérez
+edad: 38
+sexo: M
+cedula: 86800
+-----------------------------
+Nombre: Víctor Romero
+edad: 46
+sexo: H
+cedula: 50315
+-----------------------------
+Nombre: Patricia Vargas
+edad: 37
+sexo: M
+cedula: 34611
+-----------------------------
